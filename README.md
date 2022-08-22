@@ -5,7 +5,7 @@
 >Clique <a href="https://7daysofcode.io/matricula/logica-programacao">aqui</a> para participar. 
 
 ### Objetivos
-- [x] Day 1 - Operaçoes booleanas;
+- [x] Day 1 - Operações booleanas;
 - [x] Day 2 - Variáveis;
 - [x] Day 3 - Fluxo de decisão;
 - [x] Day 4 - Loops e randomização;
