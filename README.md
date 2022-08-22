@@ -7,9 +7,9 @@
 ### Objetivos
 - [x] Day 1 - Operações booleanas;
 - [x] Day 2 - Variáveis;
-- [x] Day 3 - Fluxo de decisão;
-- [x] Day 4 - Loops e randomização;
-- [x] Day 5 - Arrays e coleções;
+- [ ] Day 3 - Fluxo de decisão;
+- [ ] Day 4 - Loops e randomização;
+- [ ] Day 5 - Arrays e coleções;
 - [ ] Day 6 -
 - [ ] Day 7 -
 
